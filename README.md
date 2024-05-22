@@ -1,2 +1,2 @@
-# NextJSSaaS
+# SaaS Frontend
 Prompt_NextJS
